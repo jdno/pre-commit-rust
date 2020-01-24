@@ -5,8 +5,8 @@
 ## Using rust tools with pre-commit
 
 ```yaml
--   repo: https://github.com/doublify/pre-commit-rust
-    rev: master
+-   repo: https://github.com/jdno/pre-commit-rust
+    rev: v1.0.0
     hooks:
     -   id: fmt
     -   id: cargo-check
