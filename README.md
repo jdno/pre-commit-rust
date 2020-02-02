@@ -6,7 +6,7 @@
 
 ```yaml
 -   repo: https://github.com/jdno/pre-commit-rust
-    rev: v1.0.0
+    rev: v1.1.0
     hooks:
     -   id: fmt
     -   id: cargo-check
